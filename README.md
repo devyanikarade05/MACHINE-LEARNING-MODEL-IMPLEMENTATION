@@ -3,7 +3,7 @@
 - **Company:** CODTECH IT SOLUTIONS  
 - **Name:** Devyani Karade  
 - **Intern ID:** CT08LTW  
-- **Domain:** Machine Learning (Python)  
+- **Domain:** Python
 - **Batch Duration:** February 5th, 2025 - March 5th, 2025  
 - **Mentor:** Neela Santhosh  
 
