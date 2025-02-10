@@ -7,7 +7,8 @@
 - **Batch Duration:** February 5th, 2025 - March 5th, 2025  
 - **Mentor:** Neela Santhosh  
 
-This repository contains a **Spam Detection Chatbot** built using **Python**, **Machine Learning (Naive Bayes)**, and **Streamlit**. The chatbot is trained on a dataset of emails/messages and predicts whether a given message is spam or not.
+## MACHINE LEARNING MODEL
+This project implements a Machine Learning model for spam detection using Natural Language Processing (NLP) techniques. The model is trained using the Naïve Bayes algorithm and TF-IDF vectorization to classify messages as spam or not spam.
 
 ## Features
 
